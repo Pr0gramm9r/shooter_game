@@ -1,7 +1,7 @@
 
 
 
-#Создай собственный Шутер!
+#hello
 
 import pygame as pg
 
